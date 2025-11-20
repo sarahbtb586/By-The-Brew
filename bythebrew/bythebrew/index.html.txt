@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ByThe Brew — Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a class="logo" href="index.html">ByThe Brew</a>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="menu.html">Menu</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+    <a href="order.html">Order Now</a>
+  </nav>
+</header>
+
+<section class="page-hero">
+  <h1>Welcome to ByThe Brew</h1>
+  <p>Warangal’s Specialty Brew Experience</p>
+</section>
+
+<section class="container">
+  <h2>Our Signature</h2>
+  <p>Siphon • Chemex • Hand-pour • Premium Blends</p>
+</section>
+
+<footer>
+  © 2025 ByThe Brew
+</footer>
+
+</body>
+</html>
