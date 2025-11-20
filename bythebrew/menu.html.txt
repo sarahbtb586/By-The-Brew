@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Menu — ByThe Brew</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a class="logo" href="index.html">ByThe Brew</a>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="menu.html">Menu</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+    <a href="order.html">Order Now</a>
+  </nav>
+</header>
+
+<section class="page-hero">
+  <h1>Our Menu</h1>
+  <p>Crafted With Premium Ingredients</p>
+</section>
+
+<section class="container menu-grid">
+
+  <div class="menu-card">
+    <h3>Siphon Brew</h3>
+    <p>Delicate & aromatic.</p>
+  </div>
+
+  <div class="menu-card">
+    <h3>Chemex</h3>
+    <p>Smooth clarity & premium taste.</p>
+  </div>
+
+  <div class="menu-card">
+    <h3>Hand Pour</h3>
+    <p>Slow brewed perfection.</p>
+  </div>
+
+</section>
+
+<footer>
+  © 2025 ByThe Brew
+</footer>
+
+</body>
+</html>
